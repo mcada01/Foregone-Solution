@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\bin\Debug\netcoreapp3.1\Foregone Solution.exe
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\bin\Debug\netcoreapp3.1\Foregone Solution.deps.json
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\bin\Debug\netcoreapp3.1\Foregone Solution.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\bin\Debug\netcoreapp3.1\Foregone Solution.runtimeconfig.dev.json
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\bin\Debug\netcoreapp3.1\Foregone Solution.dll
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\bin\Debug\netcoreapp3.1\Foregone Solution.pdb
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\obj\Debug\netcoreapp3.1\Foregone Solution.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\obj\Debug\netcoreapp3.1\Foregone Solution.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\obj\Debug\netcoreapp3.1\Foregone Solution.dll
+C:\Users\User\Desktop\Proyectos\Foregone Solution\Foregone Solution\Foregone Solution\obj\Debug\netcoreapp3.1\Foregone Solution.pdb
